@@ -1,6 +1,7 @@
 body {
     text-align: center;
     background-color: black;
+    background-size: cover;
     color: greenyellow;
     font-family:  'Times New Roman';
     font-size: medium;
@@ -16,3 +17,14 @@ input {
     background:  #2cd812;
     color: #424949;
   }
+  ul{
+    padding: 10px;
+    background: black;
+  }
+  li {
+   display: inline; 
+   padding: 0px 10px 0px 10px;
+  }
+  a {
+    color: white;
+ }
