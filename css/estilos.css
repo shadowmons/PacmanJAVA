@@ -1,13 +1,17 @@
 body {
     text-align: center;
-    background-color: black;
-    background-size: cover;
     color: greenyellow;
     font-family:  'Times New Roman';
     font-size: medium;
     
     border: 2px solid  #29d812;
 }
+header {
+  text-align: center; 
+  background: url("https://i.imgur.com/EBWD1ji.png");
+  background-size: cover;
+  color: rgb(24, 228, 38);
+ }
 input {
     border: 0;
     padding: 10px;
@@ -26,5 +30,5 @@ input {
    padding: 0px 10px 0px 10px;
   }
   a {
-    color: white;
+    color: rgb(182, 247, 171);
  }
