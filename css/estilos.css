@@ -10,7 +10,7 @@ header {
   text-align: center; 
   background: url("https://i.imgur.com/EBWD1ji.png");
   background-size: cover;
-  color: white;
+  color: rgb(24, 228, 38);
  }
 input {
     border: 0;
@@ -30,5 +30,5 @@ input {
    padding: 0px 10px 0px 10px;
   }
   a {
-    color: white;
+    color: rgb(182, 247, 171);
  }
