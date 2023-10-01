@@ -347,7 +347,6 @@ public class Pacman extends JPanel implements Runnable {
 
             if (lienzo1.isEnjuego()) {
                 if (key == KeyEvent.VK_LEFT) {
-                    System.out.println("CO;OOOOOOO");
                     reqdx = -1;
                     reqdy = 0;
                 } else if (key == KeyEvent.VK_RIGHT) {

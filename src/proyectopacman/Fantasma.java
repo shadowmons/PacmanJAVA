@@ -354,7 +354,7 @@ public class Fantasma extends JPanel implements Runnable {
 
         }
 
-        //Reajuste abjo
+        //Reajuste abajo
     }
 
     public int getX() {
